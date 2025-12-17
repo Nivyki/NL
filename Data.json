@@ -2,7 +2,7 @@
   "AppPrimary": {
     "Name": "Nivy Launcher",
     "UpdateEnabled": true,
-	  "ForzeUpdate": false,
+	"ForzeUpdate": false,
     "AppVersion": "1.0",
     "AppNewVersion": "2.0",
     "AppUrl": "https://www.mediafire.com/file/0uefc8upbu0x9p7/Nozomi_Pointers.zip/file"
@@ -20,33 +20,22 @@
     {
       "App": "Nivy Pointers",
       "Blocked": true,
-	    "ForzeUpdate": false,
+	  "ForzeUpdate": false,
       "Version": "1.0",
       "VersionNew": "2.0",
-      "TranslationES": "Personalizar punteros",
-      "TranslationEN": "Customize pointers",
+      "TranslationES": "Cambia facilmente los punteros",
+      "TranslationEN": "Easily change pointers",
       "DownloaderApp": "https://www.mediafire.com/file/ua3i54skkw35r5p/Nivy_Pointers.zip/file",
       "DownloaderPreview": "https://nivylauncher-default-rtdb.firebaseio.com"
     },
     {
-      "App": "Nivy Icons",
-      "Blocked": false,
-	    "ForzeUpdate": false,
-      "Version": "1.2",
-      "VersionNew": "1.3",
-      "TranslationES": "Paquete de iconos",
-      "TranslationEN": "Icon pack",
-      "DownloaderApp": "https://www.mediafire.com/file/icons.zip/file",
-      "DownloaderPreview": "https://nivylauncher-default-rtdb.firebaseio.com/icons"
-    },
-    {
       "App": "Package Pointers",
       "Blocked": false,
-	    "ForzeUpdate": false,
-      "Version": "0.9",
+	  "ForzeUpdate": false,
+      "Version": "1.0",
       "VersionNew": "1.0",
       "TranslationES": "Crea punteros instalables",
-      "TranslationEN": "Custom themes",
+      "TranslationEN": "Create installable pointers",
       "DownloaderApp": "https://www.mediafire.com/file/themes.zip/file",
       "DownloaderPreview": "https://nivylauncher-default-rtdb.firebaseio.com/themes"
     }
