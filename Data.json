@@ -40,12 +40,12 @@
       "DownloaderPreview": "https://nivylauncher-default-rtdb.firebaseio.com/icons"
     },
     {
-      "App": "Nivy Themes",
+      "App": "Package Pointers",
       "Blocked": false,
 	    "ForzeUpdate": false,
       "Version": "0.9",
       "VersionNew": "1.0",
-      "TranslationES": "Temas personalizados",
+      "TranslationES": "Crea punteros instalables",
       "TranslationEN": "Custom themes",
       "DownloaderApp": "https://www.mediafire.com/file/themes.zip/file",
       "DownloaderPreview": "https://nivylauncher-default-rtdb.firebaseio.com/themes"
