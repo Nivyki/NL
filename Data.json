@@ -1,0 +1,54 @@
+{
+  "AppPrimary": {
+    "Name": "Nivy Launcher",
+    "UpdateEnabled": true,
+	  "ForzeUpdate": false,
+    "AppVersion": "1.0",
+    "AppNewVersion": "2.0",
+    "AppUrl": "https://www.mediafire.com/file/0uefc8upbu0x9p7/Nozomi_Pointers.zip/file"
+  },
+
+  "Links": {
+    "YT": "https://www.youtube.com/",
+    "TG": "https://www.google.com/",
+    "Nivyki": "https://www.google.com/",
+    "Support": "https://www.google.com/",
+    "Site": "https://www.google.com/"
+  },
+
+  "Apps": [
+    {
+      "App": "Nivy Pointers",
+      "Blocked": true,
+	    "ForzeUpdate": false,
+      "Version": "1.0",
+      "VersionNew": "2.0",
+      "TranslationES": "Personalizar punteros",
+      "TranslationEN": "Customize pointers",
+      "DownloaderApp": "https://www.mediafire.com/file/ua3i54skkw35r5p/Nivy_Pointers.zip/file",
+      "DownloaderPreview": "https://nivylauncher-default-rtdb.firebaseio.com"
+    },
+    {
+      "App": "Nivy Icons",
+      "Blocked": false,
+	    "ForzeUpdate": false,
+      "Version": "1.2",
+      "VersionNew": "1.3",
+      "TranslationES": "Paquete de iconos",
+      "TranslationEN": "Icon pack",
+      "DownloaderApp": "https://www.mediafire.com/file/icons.zip/file",
+      "DownloaderPreview": "https://nivylauncher-default-rtdb.firebaseio.com/icons"
+    },
+    {
+      "App": "Nivy Themes",
+      "Blocked": false,
+	    "ForzeUpdate": false,
+      "Version": "0.9",
+      "VersionNew": "1.0",
+      "TranslationES": "Temas personalizados",
+      "TranslationEN": "Custom themes",
+      "DownloaderApp": "https://www.mediafire.com/file/themes.zip/file",
+      "DownloaderPreview": "https://nivylauncher-default-rtdb.firebaseio.com/themes"
+    }
+  ]
+}
